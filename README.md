@@ -1,9 +1,8 @@
 #Portfolio Site
 
-##Creator
-Jill Kuchman
+##Jill Kuchman
 
-##Description
+###Description
 This is a portfolio site of my web development work, based off of the [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) theme from [Start Bootstrap](http://startbootstrap.com/).
 
 ### Copyright and License
