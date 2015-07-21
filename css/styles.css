@@ -61,10 +61,20 @@ hr.star-primary:after {
 .img-centered {
   margin: 0 auto;
 }
-header {
+/*header {
   text-align: center;
   background: #424242;
   color: white;
+}*/
+
+header {
+    text-align: center;
+    color: #fff;
+    background: #18bc9c;
+    background-image: url(../img/cropped-botanical-dimensions.jpg);
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 header .container {
   padding-top: 100px;
