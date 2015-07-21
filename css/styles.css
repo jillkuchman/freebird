@@ -73,7 +73,7 @@ header {
     background: #18bc9c;
     background-image: url(../img/cropped-botanical-dimensions.jpg);
     background-position: right bottom;
-    background-repeat: no-repeat;
+    /*background-repeat: no-repeat;*/
     background-size: 100%;
 }
 header .container {
